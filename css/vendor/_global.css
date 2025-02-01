@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.html {
+    overflow-x: hidden;
+}
+
+
+body {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #11111D;
+}
+
+
+.body {
+    display: flex;
+    background-color: var(--green-97);
+    color: var(--black);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22;
+
+}
+
+
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-bottom: 2%;
+}
+
+.maincontainer {
+    
+    padding-top: 79px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subcontainer img {
+ 
+    display: flex;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}

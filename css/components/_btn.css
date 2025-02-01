@@ -1,0 +1,26 @@
+.lowerbtn {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: #161628;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    transition: 0.35s ease;
+}
+
+.lowerbtn:hover {
+   background-color: blueviolet;
+    transition: .5s;
+}
+
+.lowerside {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    
+}
+

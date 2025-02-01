@@ -1,0 +1,27 @@
+.mainleftside {
+    font-size: 78px;
+    font-weight: 500;
+    line-height: 81.9px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+    color: white;
+    max-width: 50%;
+}
+
+.mainrightside {
+   
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.51px;
+
+
+    color: white;
+    max-width: 39%;
+}
+
+.mainrightside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
